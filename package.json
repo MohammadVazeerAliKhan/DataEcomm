@@ -1,0 +1,13 @@
+{
+  "name": "json-server-project",
+  "version": "1.0.0",
+  "description": "Server that has data of products and cartItems",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "MVKhan",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
